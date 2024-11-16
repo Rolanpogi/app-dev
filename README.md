@@ -40,14 +40,13 @@ Train to Busan (2016) is a South Korean zombie thriller directed by Yeon Sang-ho
 ---
 
 ## **Key Highlights**
-###**1. Unique Setting**
+**1. Unique Setting**
 The confined, high-speed setting of a train adds an extra layer of intensity and claustrophobia, making the film feel uniquely suspenseful.
 
-###**2. Emotional Depth**
-
+**2. Emotional Depth**
 Unlike typical zombie movies, Train to Busan dives deep into themes of family, self-sacrifice, and redemption, making it an emotional rollercoaster.
-###**3. Strong Performances**
 
+**3. Strong Performances**
 Gong Yoo's portrayal of Seok-woo and Ma Dong-seok's performance as Sang-hwa are both highlights, showing a range of vulnerability, bravery, and emotion.
 
 ---
