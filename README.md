@@ -9,18 +9,21 @@ Train to Busan (2016) is a South Korean zombie thriller directed by Yeon Sang-ho
 
 ---
 
-## **Main Characters**
-| Seok-woo | Gong Yoo | Father |
-| Soo-an | Kim Su-an | Seok young daughter|
-| Seok-woo | Gong Yoo | Father |
-| Sang-hwa | Ma Dong-seok | Protecting people |
-| Seong-kyeong | Jung Yu-mi | Pregnant woman survivor|
+## *Main Characters*
+
+| *Character*         | *Actor*               | *Role*                              |
+|-----------------------|-------------------------|---------------------------------------|
+| Seok-woo       | Gong Yoo             | A fund manager and father                  |
+| Soo-an| Kim Su-an | Seok-woo's young daughter|
+| Sang-hwa| Ma Dong-seok| A tough man protecting others|
+| Seong-kyeong| Jung Yu-mi| Pregnant woman survivor|
+
 
 ---
 ## **Notable Qoutes**
-“We are not the only ones who matter!" – Seok-woo
-“We have to get to Busan!" – Soo-an
-“I’m going to protect my family no matter what!" – Sang-hwa
+1.“We are not the only ones who matter!" – Seok-woo
+2.“We have to get to Busan!" – Soo-an
+3.“I’m going to protect my family no matter what!" – Sang-hwa
 
 ---
 
