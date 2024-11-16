@@ -4,7 +4,7 @@ My first repository
 Train to Busan
 
 ---
-##**Introduction**
+## **Introduction**
 Train to Busan (2016) is a South Korean zombie thriller directed by Yeon Sang-ho. The film follows a group of passengers on a train from Seoul to Busan during a sudden zombie outbreak. Combining intense action with emotional depth, it became a global hit.
 
 ---
@@ -29,7 +29,7 @@ Train to Busan (2016) is a South Korean zombie thriller directed by Yeon Sang-ho
 
 
 
-##**List of Movies**
+## **List of Movies**
 1.	Train to Busan (2016) Directed by Yeon Sang-ho, the original film that made waves internationally.
 2.	Peninsula (2020) A standalone sequel set four years after the events of Train to Busan, focusing on a group of survivors in a post-apocalyptic Korea.
 3.	Seo-un's Return: Train to Busan - The Lost City (Future Possible Film, as rumored)
