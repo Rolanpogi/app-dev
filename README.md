@@ -20,10 +20,10 @@ Train to Busan (2016) is a South Korean zombie thriller directed by Yeon Sang-ho
 
 
 ---
-## **Notable Qoutes**
-1.“We are not the only ones who matter!" – Seok-woo
-2.“We have to get to Busan!" – Soo-an
-3.“I’m going to protect my family no matter what!" – Sang-hwa
+## **Notable Quotes**
+> “We are not the only ones who matter!" – **Seok-woo**
+>“We have to get to Busan!" – **Soo-an**
+>“I’m going to protect my family no matter what!" – **Sang-hwa**
 
 ---
 
